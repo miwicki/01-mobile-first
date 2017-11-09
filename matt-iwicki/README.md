@@ -17,22 +17,8 @@ Copy the starter code folder to have a base to work from and include the client'
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
-
-<<<<<<< HEAD
-This site consist of one HTMl file and five CSS files so far. I used icomoon fonts provided by client for all styling. I implemented the 3 images provided by the client to help mirror their concept site. Languages utilized were HTML5, CSS3. Additional Google fonts were added to the CSS files for further styling.
-=======
 This site consist of one HTMl file and five CSS files so far. I used ico-moon fonts provided by client for all styling. I implemented the 3 images provided by the client to help mirror their concept site. Languages utilized were HTML5, CSS3. Additional Google fonts were added to the CSS files for further styling.
->>>>>>> 00f930f82a297d1ad2b93db129da12eaf47f387d
 
-## Change Log
-<!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:-->
-
-- 10-24-2017 - Application was initiated with style sheets and link tags.
-- 10-24-2017 - Added Icons, Fonts and answered 1st comment
-- 10-24-2017 - Base layout complete for CSS
-- 10-24-2017 - General CSS layout complete
-- 10-24-2017 - Modules CSS file complete
-- 10-24-2017 - Finalized computer viewport styling
 
 
 ## Credits and Collaborations
