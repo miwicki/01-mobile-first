@@ -19,8 +19,8 @@
 
   <!-- COMMENT: Explain the ordering of the loading of the stylesheets -->
 
-  <!-- The css loading order is important, because if the normalize were last then it would reset all the css that we had entered. Icons isn't too important because it just loads the icons that we've selected. But it makes sense to load before the other stylesheets because they cause a bigger load on the system.
-  The base, layout, and module css' are important because they're implemented in order of basic layout and down to the fine details. -->
+  <!-- The css loading order is important, because if the normalize were placed last then it would reset all the customized css beforehand. Icons placement isn't too relevant, but it makes sense to load them before the other stylesheets because they cause a bigger load on the system.
+  The base, layout, and module css files are important because they're implemented in order of basic layout, narrowing down to smaller details. -->
 
   <!-- REVIEW: This is the favicon -->
   <link rel="icon" type="image/x-icon" href="https://avatars2.githubusercontent.com/u/18607604?v=3&s=200">
@@ -29,7 +29,7 @@
   <!-- REVIEW: Note that the header has multiple classes. This is a perfectly normal thing in HTML/CSS, even though we have not seen it very much so far. -->
   <header class="site-header clearfix">
     <!-- COMMENT: Read the CSS Tricks article on clearfix, and explain in your own words how they are used. -->
-    <!-- clear-fix is used to reset float properties where it is used.-->
+    <!-- clear-fix is used to reset floats-->
 
     <section class="heading-group-h1">
       <h1>
